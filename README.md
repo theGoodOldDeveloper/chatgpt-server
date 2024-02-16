@@ -8,3 +8,9 @@
 ### Set in dotenv: OPENAI_API_KEY = "your API key..."
 
 ### node --watch .\index.js
+
+## Developer by
+thegoodolddeveloper
+
+## License
+MIT
